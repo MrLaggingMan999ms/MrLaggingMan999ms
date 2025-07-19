@@ -1,8 +1,8 @@
 <!-- head -->
 
 <h1 align="center">Hello, 
-  <img src="https://avatars.githubusercontent.com/u/151650112?v=4" height="35" alt="L" />
-  I am 🄼🅁🄻🄰🄶🄶🄸🄽🄶🄼🄰🄽𝟡𝟡𝟡🄼🅂.</h1>
+  I am 🄼🅁🄻🄰🄶🄶🄸🄽🄶🄼🄰🄽𝟡𝟡𝟡🄼🅂
+  <img src="https://avatars.githubusercontent.com/u/151650112?v=4" height="24" alt="L" />.</h1>
 
 <!-- body -->
 
